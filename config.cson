@@ -1,0 +1,29 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "61621c18-8325-4141-8f4a-b5d12e05daa9"
+  "autocomplete-plus":
+    useCoreMovementCommands: false
+  "autocomplete-python": {}
+  core: {}
+  "disable-keybindings":
+    allCommunityPackages: true
+    exceptCommunityPackages: [
+      "atomic-emacs"
+    ]
+    prefixKeys: [
+      "ctrl-k"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "f604da4e-6532-638b-e391-89b0883bd13b"
+  linter: {}
+  minimap:
+    plugins:
+      bookmarks: true
+      "git-diff": true
+      "highlight-selected": true
+  "python-tools":
+    pythonPath: "C:\\Users\\Ryo\\Anaconda3"
+  welcome:
+    showOnStartup: false

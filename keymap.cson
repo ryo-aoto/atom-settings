@@ -1,0 +1,15 @@
+'atom-workspace atom-text-editor':
+  'ctrl-h': 'core:backspace'
+  'ctrl-m': 'editor:newline'
+  'ctrl-shift-i': 'editor:auto-indent'
+
+'body atom-text-editor.autocomplete-active':
+  'ctrl-p': 'autocomplete-plus:move-up'
+  'ctrl-n': 'autocomplete-plus:move-down'
+  'alt-v': 'autocomplete-plus:page-up'
+  'ctrl-v': 'autocomplete-plus:page-down'
+  'pageup': 'autocomplete-plus:page-up'
+  'pagedown': 'autocomplete-plus:page-down'
+  'home': 'autocomplete-plus:move-to-top'
+  'end': 'autocomplete-plus:move-to-bottom'
+  'ctrl-space': 'unset!'
